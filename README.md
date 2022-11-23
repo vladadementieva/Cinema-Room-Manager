@@ -1,2 +1,2 @@
-# CinemaRoomManager
-practise kotlin on https://hyperskill.org/projects/138
+# Cinema-Room-Manager
+Kotlin practise: https://hyperskill.org/projects/138
