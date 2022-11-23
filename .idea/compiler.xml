@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-kotlin.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Floating-point_types-Area_of_a_circle.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Floating-point_types-Difference_between_two_doubles.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Floating-point_types-Find_X.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Floating-point_types-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Hierarchy_of_exceptions-Fix_the_code.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Hierarchy_of_exceptions-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Hierarchy_of_exceptions-What_is_Throwable.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Boys_in_the_sport_class.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Check_the_sum.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Check_the_value.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Check_the_value__1_.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Existing_operators.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-When_the_result_is_true.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Complex_handling.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Parting_words.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Will_it_be_printed.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Braking_distance.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Handling_strings.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Integer_division.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-While_loops-Bank_interest_calculation.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-While_loops-The_length_of_the_sequence.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-While_loops-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
